@@ -1,0 +1,3 @@
+[submodule "hachi-php"]
+	path = hachi-php
+	url = git@github.com:simpier/hachi-php.git
